@@ -18,7 +18,7 @@ const GithubLogo = styled.img`
   margin: 10px;
 `;
 
-const githubProfileUrl: string = 'https://github.com/KarimElghamry';
+const githubProfileUrl: string = 'https://github.com/soliman2023';
 
 const Footer: React.FC = (): ReactElement => {
   return (
@@ -28,7 +28,7 @@ const Footer: React.FC = (): ReactElement => {
         onClick={() => window.open(githubProfileUrl, '_blank')}
       >
         <GithubLogo src={images.githubLogo}></GithubLogo>
-        <div>KarimElghamry</div>
+        <div>Mostafa Soliman</div>
       </Row>
     </StyledFooter>
   );

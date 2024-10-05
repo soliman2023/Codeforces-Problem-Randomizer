@@ -2,7 +2,7 @@
 
 Built using React, Styled components and Typescript.
 
-deployed at: https://karimelghamry.github.io/Codeforces-Randomizer/
+deployed at: https://soliman2023.github.io/Codeforces-Problem-Randomizer/
 
 ### Show some :heart: and :star: the repo to support the project
 
