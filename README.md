@@ -30,5 +30,3 @@ deployed at: https://soliman2023.github.io/Codeforces-Problem-Randomizer/
 ## Contribution
 
 Feel free to to suggest further features/improvements by opening an issue or by submitting a pull request.
-# Codeforces-Problem-Randomizer
-# Codeforces-Problem-Randomizer
